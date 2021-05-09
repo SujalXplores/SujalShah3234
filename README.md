@@ -4,6 +4,11 @@
 
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/> <a href="https://twitter.com/sujalsh71700110" ><img src="https://img.shields.io/twitter/follow/sujalsh71700110.svg?style=social" /></a>
 
+### Connect with me:
+
+[<img align="left" alt="sujal-shah-261276620b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sujal_shah10 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Angular Project
