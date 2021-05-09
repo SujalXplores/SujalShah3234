@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Visitor Count](https://profile-counter.glitch.me/SujalShah3234/count.svg)
+![counter](https://enw4zvq5ga1ahs6.m.pipedream.net)
 
 Here are some ideas to get you started:
 
