@@ -6,8 +6,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sujal-shah-261276620b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sujal_shah10 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 Here are some ideas to get you started:
 
@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: shahc9437@gmail.com
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SujalShah3234&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sujal's GitHub Stats" />
+
+
+
+---
+[instagram]: https://www.instagram.com/sujal_shah10
+[linkedin]: https://www.linkedin.com/in/sujal-shah-261276620b
