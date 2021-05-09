@@ -10,7 +10,7 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<br>
 ---
 
 ### Languages and Tools:
@@ -93,10 +93,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Angular Project
-- 🌱 I’m currently learning JavaScript
-- 💬 Ask me about Flutter
-- 📫 How to reach me: shahc9437@gmail.com
+- 🔭 I’m currently working on a my final year project!
+- 🌱 I’m currently learning Advance JavaScript
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play chess and listen music
 
 ---
 
