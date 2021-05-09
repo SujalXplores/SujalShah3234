@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/fluent/344/linkedin.png" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/fluent/344/instagram-new.png" />][instagram]
+[<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/fluent/344/linkedin.png" />][linkedin]
+[<img align="left" alt="Instagram" width="30px" src="https://img.icons8.com/fluent/344/instagram-new.png" />][instagram]
 <br>
 
 ### Languages and Tools:
