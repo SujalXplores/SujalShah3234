@@ -7,8 +7,8 @@
 ---
 
 ### Connect with me:
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg
+[<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ---
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 
 [instagram]: https://www.instagram.com/sujal_shah10
-[linkedin]: https://www.linkedin.com/in/sujal-shah-261276620b
+[linkedin]: https://www.linkedin.com/in/sujal-shah-26127620b
