@@ -6,8 +6,6 @@
 
 ---
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a my final year project!
 - 🌱 I’m currently learning Advance JavaScript
 - 👯 I’m looking to collaborate with other content creators
