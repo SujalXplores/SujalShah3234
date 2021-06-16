@@ -13,6 +13,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="Stack" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stack]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 <br>
@@ -33,5 +34,6 @@
 
 
 
+[stack]: https://stackoverflow.com/users/15358635/sujal-shah
 [instagram]: https://www.instagram.com/sujal_shah10
 [linkedin]: https://www.linkedin.com/in/sujal-shah-26127620b
