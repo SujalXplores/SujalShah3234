@@ -6,9 +6,8 @@
 
 ---
 
-- 🔭 I’m currently working on a my final year project!
-- 🌱 I’m currently learning Advance JavaScript
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I’m currently working on side projects!
+- 🌱 I’m currently learning React
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play chess and listen music
 
