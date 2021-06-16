@@ -22,7 +22,17 @@
 ### Languages and Tools:
 
 
-<img alt="visual studio code" width="36px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />  <img alt="angular" width="36px" src="https://img.icons8.com/color/344/angularjs.png" />  <img alt="vue.js" width="36px" src="https://img.icons8.com/color/344/vue-js.png" />  <img alt="react" width="36px" src="https://img.icons8.com/color/240/000000/react-native.png" />  <img alt="javascript" width="36px" src="https://img.icons8.com/color/240/000000/javascript.png" />  <img alt="flutter" width="36px" src="https://img.icons8.com/color/344/flutter.png" />  <img alt="ionic" width="36px" src="https://img.icons8.com/ios-filled/344/4a90e2/ionic.png" />  <img alt="python" width="36px" src="https://img.icons8.com/color/240/000000/python.png">   <img alt="typescript" width="36px" src="https://img.icons8.com/color/240/000000/typescript.png">   <img alt="html5" width="36px" src="https://img.icons8.com/color/240/000000/html-5.png">   <img alt="css3" width="36px" src="https://img.icons8.com/color/240/000000/css3.png">   <img alt="sass" width="36px" src="https://img.icons8.com/color/240/000000/sass.png">   <img alt="Node.js" width="36px" src="https://img.icons8.com/color/240/000000/nodejs.png">   <img alt="MongoDb" width="36px" src="https://img.icons8.com/color/344/4a90e2/mongodb.png">  <img alt="Git" width="36px" src="https://img.icons8.com/color/240/000000/git.png">  <img alt="github" width="36px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">   <img alt="terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+<img alt="angular" width="36px"
+    src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img
+    alt="vue.js" width="36px"
+    src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D" /> <img
+    alt="react" width="36px"
+    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img
+    alt="flutter" width="36px"
+    src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img
+    alt="ionic" width="36px"
+    src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" /> <img alt="Node.js"
+    width="36px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white">
 
 ---
 
