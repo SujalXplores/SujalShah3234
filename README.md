@@ -36,7 +36,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalshah3234)](https://github.com/sujalshah3234/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalshah3234&layout=compact)](https://github.com/sujalshah3234/github-readme-stats)
 
 
 
