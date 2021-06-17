@@ -20,7 +20,13 @@ Hi, I'm Sujal Shah, a passionate self-taught frontEnd web developer from India.
 [<img align="left" alt="Stack" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stack]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-<br>
+<br/>
+
+
+---
+
+
+
 
 ### Frameworks:
 
