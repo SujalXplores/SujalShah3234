@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm Sujal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![counter](https://enw4zvq5ga1ahs6.m.pipedream.net)
 
@@ -6,10 +6,12 @@
 
 ---
 
+Hi, I'm Sujal Shah, a passionate self-taught frontEnd web developer from India.
+
 - 🔭 I’m currently working on side projects!
 - 🌱 I’m currently learning React
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play chess and listen music
+- 💬 Ask me about anything [here](https://github.com/sujalshah3234/sujalshah3234/issues)
 
 ### Connect with me:
 
