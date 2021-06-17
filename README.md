@@ -32,7 +32,11 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=SujalShah3234&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=midnight-purple" alt="Sujal's GitHub Stats" />  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalshah3234)](https://github.com/sujalshah3234/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=SujalShah3234&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=midnight-purple" alt="Sujal's GitHub Stats" />
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalshah3234)](https://github.com/sujalshah3234/github-readme-stats)
 
 
 
