@@ -34,7 +34,7 @@ Hi, I'm Sujal Shah, a passionate self-taught frontEnd web developer from India.
 <a href="https://www.instagram.com/sujal_shah10" target="_blank" rel="noopener noreferrer">
     <img align="left" alt="Instagram"
         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+</a><br>
 
 ### Frameworks:
 
