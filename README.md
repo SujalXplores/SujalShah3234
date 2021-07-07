@@ -15,7 +15,26 @@ Hi, I'm Sujal Shah, a passionate self-taught frontEnd web developer from India.
 
 ### Connect with me:
 
-[<img align="left" alt="md" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium] [<img align="left" alt="YT" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][yt] [<img align="left" alt="Stack" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stack] [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]<br>
+<a href="https://shahc9437.medium.com" target="_blank" rel="noopener noreferrer">
+    <img align="left" alt="md"
+        src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/channel/UCfZG_FYYf-jJb1qki_6wO5Q" target="_blank" rel="noopener noreferrer">
+    <img align="left" alt="YT"
+        src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/users/15358635/sujal-shah" target="_blank" rel="noopener noreferrer">
+    <img align="left" alt="Stack"
+        src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sujal-shah-26127620b" target="_blank" rel="noopener noreferrer">
+    <img align="left" alt="LinkedIn"
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/sujal_shah10" target="_blank" rel="noopener noreferrer">
+    <img align="left" alt="Instagram"
+        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 ### Frameworks:
 
