@@ -52,6 +52,11 @@ Hi, I'm Sujal Shah, a passionate self-taught frontEnd web developer from India.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalshah3234&layout=compact)](https://github.com/sujalshah3234/github-readme-stats)
 
+---
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 [medium]: https://shahc9437.medium.com
 [yt]: https://www.youtube.com/channel/UCfZG_FYYf-jJb1qki_6wO5Q
 [stack]: https://stackoverflow.com/users/15358635/sujal-shah
