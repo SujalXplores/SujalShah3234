@@ -54,6 +54,10 @@ Hi, I'm Sujal Shah, a passionate self-taught frontEnd web developer from India.
 
 ---
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalshah3234" alt="Github Streak Stats">
+
+---
+
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
