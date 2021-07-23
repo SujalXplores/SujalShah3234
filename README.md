@@ -46,15 +46,11 @@ Hi, I'm Sujal Shah, a passionate self-taught frontEnd web developer from India.
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=SujalShah3234&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=midnight-purple" alt="Sujal's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=SujalShah3234&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=midnight-purple" alt="Sujal's GitHub Stats" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalshah3234" alt="Github Streak Stats">
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalshah3234&layout=compact)](https://github.com/sujalshah3234/github-readme-stats)
-
----
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalshah3234" alt="Github Streak Stats">
 
 ---
 
