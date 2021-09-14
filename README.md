@@ -1,10 +1,8 @@
 <p align="center"><img width="200px" height="auto" src="https://i.pinimg.com/564x/0a/55/ab/0a55ab1a7573a92184f490c0e931edd2.jpg" height="175px"/></p>
 
-# Hi there, I'm Sujal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sujal</h1>
 
----
-
-Hi, I'm Sujal Shah, a passionate self-taught frontEnd web developer from India.
+<h2 align="center"> Passionate self-taught frontEnd web developer from India.</h2>
 
 - 🔭 I’m currently working on side projects!
 - 🌱 I’m currently learning React
