@@ -1,3 +1,5 @@
+<p align="center"><img width="200px" height="auto" src="https://i.pinimg.com/564x/0a/55/ab/0a55ab1a7573a92184f490c0e931edd2.jpg" height="175px"/></p>
+
 # Hi there, I'm Sujal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ---
@@ -38,8 +40,4 @@ Hi, I'm Sujal Shah, a passionate self-taught frontEnd web developer from India.
 
 ## ❤ Views and Followers
 
-![counter](https://enw4zvq5ga1ahs6.m.pipedream.net)
-
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/> <a href="https://twitter.com/sujalsh71700110" ><img src="https://img.shields.io/twitter/follow/sujalsh71700110.svg?style=social" /></a>
-
-<a href="https://github.com/sujalshah3234?tab=followers"><img src="https://img.shields.io/github/followers/sujalshah3234?label=Followers&style=social" alt="GitHub Badge"></a>
+![counter](https://enw4zvq5ga1ahs6.m.pipedream.net) <a href="https://github.com/sujalshah3234?tab=followers"><img src="https://img.shields.io/github/followers/sujalshah3234?label=Followers&style=social" alt="GitHub Badge"></a>
