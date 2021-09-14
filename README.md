@@ -1,9 +1,5 @@
 # Hi there, I'm Sujal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![counter](https://enw4zvq5ga1ahs6.m.pipedream.net)
-
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/> <a href="https://twitter.com/sujalsh71700110" ><img src="https://img.shields.io/twitter/follow/sujalsh71700110.svg?style=social" /></a>
-
 ---
 
 Hi, I'm Sujal Shah, a passionate self-taught frontEnd web developer from India.
@@ -40,9 +36,10 @@ Hi, I'm Sujal Shah, a passionate self-taught frontEnd web developer from India.
 
 <a href="https://github.com/sujalshah3234github-readme-activity-graph"><img alt="Sujal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sujalshah3234&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalshah3234&layout=compact)](https://github.com/sujalshah3234/github-readme-stats)
+## ❤ Views and Followers
 
----
+![counter](https://enw4zvq5ga1ahs6.m.pipedream.net)
 
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/> <a href="https://twitter.com/sujalsh71700110" ><img src="https://img.shields.io/twitter/follow/sujalsh71700110.svg?style=social" /></a>
+
+<a href="https://github.com/sujalshah3234?tab=followers"><img src="https://img.shields.io/github/followers/sujalshah3234?label=Followers&style=social" alt="GitHub Badge"></a>
