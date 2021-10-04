@@ -79,5 +79,6 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23060b0d&textColor=%235BCDEC&aColor=%235BCDEC&borderColor=%235BCDEC&hideBorder=%23)
 
 <details>
-  ![counter](https://enw4zvq5ga1ahs6.m.pipedream.net)
+  <summary>Profile Insights</summary>
+  <img alt="counter" src="https://enw4zvq5ga1ahs6.m.pipedream.net" />
 </details>
