@@ -41,7 +41,7 @@
 </table>
 
 
-<h2 style="display: flex;align-items: center;flex-direction: row;"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me</h2>
+<h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me</h2>
 <table>
 <thead>
   <tr>
