@@ -6,8 +6,8 @@
 
 <h1> Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Sujal
 </h1>
-<div>[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer+from+India.;Javascript+Enthusiast;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
-</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer+from+India.;Javascript+Enthusiast;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 ![counter](https://enw4zvq5ga1ahs6.m.pipedream.net)
 
@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujalshah3234&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalshah3234&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
+  <img alt="Sujal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujalshah3234&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /><img alt="Sujal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalshah3234&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
