@@ -7,8 +7,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer+from+India.;Javascript+Enthusiast;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-![counter](https://enw4zvq5ga1ahs6.m.pipedream.net)
-
 <h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width=100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -79,3 +77,7 @@
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23060b0d&textColor=%235BCDEC&aColor=%235BCDEC&borderColor=%235BCDEC&hideBorder=%23)
+
+<details>
+  ![counter](https://enw4zvq5ga1ahs6.m.pipedream.net)
+</details>
