@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200px" height="auto" src="https://i.pinimg.com/564x/0a/55/ab/0a55ab1a7573a92184f490c0e931edd2.jpg" height="175px"/>
+<img width="200px" height="auto" src="https://user-images.githubusercontent.com/59718043/120569049-2921b700-c3e3-11eb-8375-987138650d68.gif" />
 </p>
 
 <h1> Hi, I'm Sujal.
