@@ -4,10 +4,18 @@
 
 <h2 align="center"> Passionate self-taught frontEnd web developer from India.</h2>
 
-- 🔭 I’m currently working on side projects!
-- 🌱 I’m currently learning React
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 💬 Ask me about anything [here](https://github.com/sujalshah3234/sujalshah3234/issues)
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
+- 🔭 I’m currently working on My Blog
+
+- 🌱 I’m currently learning React 
+
+- 🥅 2021 Goals: Contribute more to Open Source projects 
+
+- 💬 Talk to me about anything [here](https://github.com/sujalshah3234/sujalshah3234/issues)
 
 ### Frameworks:
 
