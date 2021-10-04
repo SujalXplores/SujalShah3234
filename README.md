@@ -1,8 +1,15 @@
-<p align="center"><img width="200px" height="auto" src="https://i.pinimg.com/564x/0a/55/ab/0a55ab1a7573a92184f490c0e931edd2.jpg" height="175px"/></p>
+<div align="center">
+<img width="200px" height="175px" src="https://i.pinimg.com/564x/0a/55/ab/0a55ab1a7573a92184f490c0e931edd2.jpg" alt="cover" />
+</div>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sujal</h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
 
-<h2 align="center"> Passionate self-taught frontEnd web developer from India.</h2>
+![counter](https://enw4zvq5ga1ahs6.m.pipedream.net) <a href="https://github.com/sujalshah3234?tab=followers"><img src="https://img.shields.io/github/followers/sujalshah3234?label=Followers&style=social" alt="GitHub Badge"></a>
+
+</p>
+<div size='20px'> Hi! My name is Sujal. Thank You for taking the time to view my GitHub Profile 
+</div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
@@ -43,7 +50,3 @@
 <br/>
 
 <a href="https://github.com/sujalshah3234github-readme-activity-graph"><img alt="Sujal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sujalshah3234&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-## ❤ Views and Followers
-
-![counter](https://enw4zvq5ga1ahs6.m.pipedream.net) <a href="https://github.com/sujalshah3234?tab=followers"><img src="https://img.shields.io/github/followers/sujalshah3234?label=Followers&style=social" alt="GitHub Badge"></a>
