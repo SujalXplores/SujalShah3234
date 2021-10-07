@@ -1,7 +1,3 @@
-<p align="center">
-<img width="200px" height="auto" src="https://user-images.githubusercontent.com/59718043/120569049-2921b700-c3e3-11eb-8375-987138650d68.gif" />
-</p>
-
 <h1> Hi, I'm Sujal.
 </h1>
 
@@ -72,7 +68,7 @@
 <a href="https://github.com/sujalshah3234github-readme-activity-graph"><img alt="Sujal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sujalshah3234&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <h2>&#127942 GitHub Awards</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=sujalshah3234&column=8&theme=gruvbox&no-frame=true&margin-w=15"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=sujalshah3234&theme=gruvbox&no-frame=true&margin-w=15" />
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
