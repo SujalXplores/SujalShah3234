@@ -27,8 +27,9 @@
     <td>DB's</td>
     <td>
       <img alt="MySQL" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/mysql.svg" />
-      <img alt="MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
-      <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> </td>
+      <img alt="MongoDb" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/mongodb.svg" />
+      <img alt="Firebase" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/firebase.svg" /> 
+    </td>
   </tr>
   <tr>
     <td>Application Development</td>
