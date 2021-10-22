@@ -26,9 +26,9 @@
   <tr>
     <td>DB's</td>
     <td>
+      <img alt="Firebase" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/firebase.svg" /> 
       <img alt="MySQL" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/mysql.svg" />
       <img alt="MongoDb" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/mongodb.svg" />
-      <img alt="Firebase" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/firebase.svg" /> 
     </td>
   </tr>
   <tr>
@@ -43,8 +43,8 @@
     <td>Tools</td>
     <td>
       <img alt="Git" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/git.svg" /> 
-      <img alt="Postman" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/postman.svg" /> 
       <img alt="vscode" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/vscode.svg" /> 
+      <img alt="Postman" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/postman.svg" /> 
       <img alt="Trello" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/trello.svg" /> 
       <img alt="chrome" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/chrome.svg" />
     </td>
