@@ -1,11 +1,9 @@
-<h1> Hi, I'm Sujal.
+<h1> Hi 👋, I'm Sujal.
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer+from+India.;Javascript+Enthusiast;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 <h2>🧑🏻‍💻 About Me</h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I'm currently working on My Blog
 
@@ -16,7 +14,7 @@
 - 💬 Talk to me about JavaScript
 
 <br /><br />
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  Skills</h2>
+<h2>🤹  Skills</h2>
 <table>
   <tr>
     <td>Frameworks</td>
@@ -37,7 +35,7 @@
 </table>
 
 
-<h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me</h2>
+<h2>🤝 Connect with me</h2>
 <table>
 <thead>
   <tr>
@@ -51,13 +49,11 @@
 <br>
 
 
-<h2><img src="https://camo.githubusercontent.com/18a2fa2ff29bbb86a86819ec50536c3c38bc9fc0ca6b3d17ef48eaf50ea34983/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e6769663f6369643d65636630356534377832673033346939707a77747a7a7364337867673277396e723934743474666c6262676f33303038267269643d67697068792e676966" width="32px" data-canonical-src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&amp;rid=giphy.gif" style="max-width: 100%;">  My GitHub Stats</h2>
+<h2>🐙 My GitHub Stats</h2>
 
-<p align="center">
 <img alt="Sujal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sujalshah3234&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
 
 <img alt="Sujal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujalshah3234&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /><img alt="Sujal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalshah3234&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
   
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -68,7 +64,7 @@
 <h2>&#127942 GitHub Awards</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=sujalshah3234&theme=gruvbox&no-frame=true&margin-w=15" />
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+<h2>😉 Some Programming Humor for you.</h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23060b0d&textColor=%235BCDEC&aColor=%235BCDEC&borderColor=%235BCDEC&hideBorder=%23)
 
