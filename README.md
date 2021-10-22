@@ -34,9 +34,9 @@
   <tr>
     <td>Application Development</td>
     <td>
-      <img alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> 
-      <img alt="ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" /> 
-      <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></td>
+      <img alt="flutter" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/flutter.svg" /> 
+      <img alt="ionic" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/ionic.svg" /> 
+      <img alt="Android" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/android.svg" /></td>
   </tr>
   <tr>
     <td>Tools</td>
