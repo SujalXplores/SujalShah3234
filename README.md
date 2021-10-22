@@ -51,7 +51,7 @@
 
 <h2>🐙 My GitHub Stats</h2>
 
-<img alt="Sujal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sujalshah3234&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+<img align="center" alt="Sujal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sujalshah3234&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
 
 <img align="left" alt="Sujal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujalshah3234&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 <img align="right" alt="Sujal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalshah3234&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
