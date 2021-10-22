@@ -20,7 +20,7 @@
       <img alt="angular" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/angular-icon.svg" /> 
       <img alt="react" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/react-icon.svg" /> 
       <img alt="Node.js" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/nodejs-icon.svg" /> 
-      <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> 
+      <img alt="Express.js" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/expressjs-icon.svg" /> 
       <img alt="Node.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> 
     </td>
   </tr>
