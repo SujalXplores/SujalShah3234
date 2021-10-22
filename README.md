@@ -36,16 +36,17 @@
     <td>
       <img alt="flutter" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/flutter.svg" /> 
       <img alt="ionic" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/ionic.svg" /> 
-      <img alt="Android" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/android.svg" /></td>
+      <img alt="Android" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/android.svg" />
+    </td>
   </tr>
   <tr>
     <td>Tools</td>
     <td>
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
-      <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> 
-      <img alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
-      <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> 
-      <img alt="chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+      <img alt="Git" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/git.svg" /> 
+      <img alt="Postman" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/postman.svg" /> 
+      <img alt="vscode" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/vscode.svg" /> 
+      <img alt="Trello" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/trello.svg" /> 
+      <img alt="chrome" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/chrome.svg" />
     </td>
   </tr>
 </table>
