@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td>Frameworks</td>
-    <td><img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"> <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> </td>
+    <td><img alt="angular" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/angular-icon.svg" /> <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"> <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> </td>
   </tr>
   <tr>
     <td>DB's</td>
@@ -57,10 +57,6 @@
 <a href="https://github.com/sujalshah3234github-readme-activity-graph">
   <img alt="Sujal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sujalshah3234&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 </a>
-
-<h2>😉 Some Programming Humor for you.</h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23060b0d&textColor=%235BCDEC&aColor=%235BCDEC&borderColor=%235BCDEC&hideBorder=%23)
 
 <details>
   <summary>🏆 GitHub Awards</summary>
