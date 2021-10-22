@@ -79,10 +79,14 @@
 
 <details>
   <summary>🏆 GitHub Awards</summary>
-  <img width=800 alt="Sujal Shah | Github Awards" src="https://github-profile-trophy.vercel.app/?username=sujalshah3234&theme=gruvbox&no-frame=true&margin-w=15" />
+  <p>
+    <img width=800 alt="Sujal Shah | Github Awards" src="https://github-profile-trophy.vercel.app/?username=sujalshah3234&theme=gruvbox&no-frame=true&margin-w=15" />
+  </p>
 </details>
 
 <details>
   <summary>🔍 Profile Insights</summary>
-  <img alt="Sujal Shah | Profile Views" src="https://enw4zvq5ga1ahs6.m.pipedream.net" />
+  <p>
+    <img alt="Sujal Shah | Profile Views" src="https://enw4zvq5ga1ahs6.m.pipedream.net" />
+  </p>
 </details>
