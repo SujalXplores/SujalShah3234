@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td>Frameworks</td>
-    <td><img alt="angular" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/angular-icon.svg" /> <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"> <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> </td>
+    <td><img alt="angular" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/angular-icon.svg" /> <img alt="react" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/react-icon.svg" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"> <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> </td>
   </tr>
   <tr>
     <td>DB's</td>
