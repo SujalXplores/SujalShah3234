@@ -50,6 +50,7 @@
 
 <h2>🤝 Connect with me</h2>
 <table>
+<thead>
   <tr>
     <td>
       <a href='https://www.linkedin.com/in/sujal-shah-26127620b'>
@@ -67,6 +68,7 @@
       </a>
     </td>
   </tr>
+</thead>
 </table>
 
 <h2>🐙 My GitHub Stats</h2>
