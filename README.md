@@ -19,14 +19,14 @@
     <td>
       <img alt="angular" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/angular-icon.svg" /> 
       <img alt="react" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/react-icon.svg" /> 
-      <img alt="Node.js" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/nodejs-icon.svg" /> 
       <img alt="Node.js" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/vuejs-icon.svg" /> 
+      <img alt="Node.js" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/nodejs-icon.svg" /> 
     </td>
   </tr>
   <tr>
     <td>DB's</td>
     <td>
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
+      <img alt="MySQL" src="https://img.icons8.com/color/32/000000/mysql-logo.png"/>
       <img alt="MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
       <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> </td>
   </tr>
