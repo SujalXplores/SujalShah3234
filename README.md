@@ -93,3 +93,13 @@
   <summary>🔍 Profile Insights</summary><br>
   <img alt="Sujal Shah | Profile Views" src="https://enw4zvq5ga1ahs6.m.pipedream.net" />
 </details>
+
+---
+
+<div align = "center">
+
+### Support Me Here. :point_down:
+
+<a href="https://www.buymeacoffee.com/sujal" target="_blank">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" /></a>
+</div>
