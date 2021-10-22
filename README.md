@@ -61,12 +61,14 @@
 
 <a href="https://github.com/sujalshah3234github-readme-activity-graph"><img alt="Sujal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sujalshah3234&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<h2>&#127942 GitHub Awards</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=sujalshah3234&theme=gruvbox&no-frame=true&margin-w=15" />
-
 <h2>😉 Some Programming Humor for you.</h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23060b0d&textColor=%235BCDEC&aColor=%235BCDEC&borderColor=%235BCDEC&hideBorder=%23)
+
+<details>
+  <summary>&#127942 GitHub Awards</summary>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=sujalshah3234&theme=gruvbox&no-frame=true&margin-w=15" />
+</details>
 
 <details>
   <summary>Profile Insights</summary>
