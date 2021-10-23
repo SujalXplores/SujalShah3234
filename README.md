@@ -79,12 +79,8 @@
 
 | <img alt="Sujal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujalshah3234&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> | <img alt="Sujal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalshah3234&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> |
 | ------------- | ------------- |
-  
-<p><em>Note:</em> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 
-<a href="https://github.com/sujalshah3234github-readme-activity-graph">
-  <img alt="Sujal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sujalshah3234&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
-</a>
+---
 
 <details>
   <summary>🏆 GitHub Awards</summary><br>
@@ -94,6 +90,10 @@
 <details>
   <summary>🔍 Profile Insights</summary><br>
   <img alt="Sujal Shah | Profile Views" src="https://enw4zvq5ga1ahs6.m.pipedream.net" />
+  <p><em>Note:</em> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+  <a href="https://github.com/sujalshah3234github-readme-activity-graph">
+    <img alt="Sujal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sujalshah3234&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+  </a>
 </details>
 
 ---
