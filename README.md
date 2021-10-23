@@ -98,10 +98,8 @@
 
 ---
 
-<div align = "center">
-
 ### Support Me Here. :point_down:
 
 <a href="https://www.buymeacoffee.com/sujal" target="_blank">
-  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" /></a>
-</div>
+  <img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width="150" >
+</a>
