@@ -58,7 +58,7 @@
       </a>
     </td>
     <td>
-      <a href='https://www.twitter.com/sujalsh71700110'>
+      <a href='https://www.twitter.com/sujal_shah10'>
         <img alt="Sujal Shah | Twitter" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/twitter.svg" /> 
       </a>
     </td>
