@@ -5,48 +5,11 @@
 <h2>🧑🏻‍💻 About Me</h2>
 
 - 🔭 I'm currently working on My Blog
-- 🌱 I'm currently learning Vue.js 
+- 🤹 I'm currently learning Vue.js 
 - 👯 I'm looking to collaborate on Open-source
 - 💬 Ask me anything [here.](https://github.com/SujalShah3234/SujalShah3234/issues)
 
-<h2>🤹  Skills</h2>
-<table>
-  <tr>
-    <td>Frameworks</td>
-    <td>
-      <img alt="angular" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/angular-icon.svg" /> 
-      <img alt="react" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/react-icon.svg" /> 
-      <img alt="Node.js" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/vuejs-icon.svg" /> 
-      <img alt="Node.js" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/nodejs-icon.svg" /> 
-    </td>
-  </tr>
-  <tr>
-    <td>DB's</td>
-    <td>
-      <img alt="Firebase" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/firebase.svg" /> 
-      <img alt="MySQL" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/mysql.svg" />
-      <img alt="MongoDb" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/mongodb.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td>Application Development</td>
-    <td>
-      <img alt="flutter" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/flutter.svg" /> 
-      <img alt="ionic" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/ionic.svg" /> 
-      <img alt="Android" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/android.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td>Tools</td>
-    <td>
-      <img alt="Git" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/git.svg" /> 
-      <img alt="vscode" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/vscode.svg" /> 
-      <img alt="Postman" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/postman.svg" /> 
-      <img alt="Trello" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/trello.svg" /> 
-      <img alt="chrome" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/chrome.svg" />
-    </td>
-  </tr>
-</table>
+<h2>  Skills</h2>
 
 <h2>🤝 Connect with me</h2>
 <table>
