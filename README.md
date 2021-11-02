@@ -4,10 +4,10 @@
 
 <h2>🧑🏻‍💻 About Me</h2>
 
-🔭 I'm currently working on My Blog
-🤹 I'm currently learning Vue.js 
-👯 I'm looking to collaborate on Open-source
-💬 Ask me anything [here.](https://github.com/SujalShah3234/SujalShah3234/issues)
+🔭 I'm currently working on My Blog <br>
+🤹 I'm currently learning Vue.js <br>
+👯 I'm looking to collaborate on Open-source <br>
+💬 Ask me anything [here.](https://github.com/SujalShah3234/SujalShah3234/issues) <br>
 
 <h2>  Skills</h2>
 
