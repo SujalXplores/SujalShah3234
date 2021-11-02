@@ -9,8 +9,6 @@
 👯 I'm looking to collaborate on Open-source <br>
 💬 Ask me anything [here.](https://github.com/SujalShah3234/SujalShah3234/issues) <br>
 
-<h2>  Skills</h2>
-
 <h2>🤝 Connect with me</h2>
 <table>
 <thead>
