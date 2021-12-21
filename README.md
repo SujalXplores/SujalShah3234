@@ -1,11 +1,11 @@
-<h1> Hi 👋, I'm Sujal.</h1>
+<h1> Hi 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer+from+India.;Javascript+Enthusiast;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 <h2>🧑🏻‍💻 About Me</h2>
 
 🔭 I'm currently working on My Blog <br>
-🤹 I'm currently learning Vue.js <br>
+🤹 I'm currently learning React.js <br>
 👯 I'm looking to collaborate on Open-source <br>
 💬 Ask me anything [here.](https://github.com/SujalShah3234/SujalShah3234/issues) <br>
 
