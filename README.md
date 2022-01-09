@@ -9,29 +9,6 @@
 👯 I'm looking to collaborate on Open-source <br>
 💬 Ask me anything [here.](https://github.com/SujalShah3234/SujalShah3234/issues) <br>
 
-<h2>🤝 Connect with me</h2>
-<table>
-<thead>
-  <tr>
-    <td>
-      <a href='https://www.linkedin.com/in/sujal-shah-26127620b'>
-        <img alt="Sujal Shah | LinkedIn" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/linkedin.svg" /> 
-      </a>
-    </td>
-    <td>
-      <a href='https://www.twitter.com/sujal_shah10'>
-        <img alt="Sujal Shah | Twitter" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/twitter.svg" /> 
-      </a>
-    </td>
-    <td>
-      <a href='https://medium.com/@shahc9437'>
-        <img alt="Sujal Shah | Medium" src="https://github.com/SujalShah3234/SujalShah3234/blob/master/assets/medium.svg" /> 
-      </a>
-    </td>
-  </tr>
-</thead>
-</table>
-
 ---
 
 <details>

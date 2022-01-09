@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e43bbf47.css",
+    "main.js": "/static/js/main.166b614c.js",
+    "static/media/private-video-chat-app.png": "/static/media/private-video-chat-app.25d4da98303c675e93b5.png",
+    "static/media/Sujal_Shah_Resume.pdf": "/static/media/Sujal_Shah_Resume.68ce35553ab4c4100a8e.pdf",
+    "static/media/football-scores.png": "/static/media/football-scores.10895e9877feb47df8ed.png",
+    "static/media/working-demo.png": "/static/media/working-demo.cbede63eb9f2805bf5ad.png",
+    "static/media/chess-game.jpg": "/static/media/chess-game.bc8a36b812997f24bd42.jpg",
+    "static/media/about.png": "/static/media/about.4f8a2c0690bbd2ba9425.png",
+    "static/media/me.png": "/static/media/me.6b08cdb31128797e76ed.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.43a5db932e4ce89869ea.jpg",
+    "static/media/white-board.png": "/static/media/white-board.09679186bf0eb4d792ab.png",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.e43bbf47.css.map": "/static/css/main.e43bbf47.css.map",
+    "main.166b614c.js.map": "/static/js/main.166b614c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e43bbf47.css",
+    "static/js/main.166b614c.js"
+  ]
+}
