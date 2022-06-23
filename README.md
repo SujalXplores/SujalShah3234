@@ -5,7 +5,7 @@
 <h2>🧑🏻‍💻 About Me</h2>
 
 🔭 I'm currently working on My Blog <br>
-🤹 I'm currently learning React.js <br>
+🤹 I'm currently learning new things everyday <br>
 👯 I'm looking to collaborate on Open-source <br>
 💬 Ask me anything [here.](https://github.com/SujalShah3234/SujalShah3234/issues) <br>
 
