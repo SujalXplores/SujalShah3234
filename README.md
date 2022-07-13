@@ -4,9 +4,9 @@
 
 <h2>🧑🏻‍💻 About Me</h2>
 
-🔭 I'm currently working on My Blog <br>
-🤹 I'm currently learning new things everyday <br>
-👯 I'm looking to collaborate on Open-source <br>
+🔭 I'm currently working on Portfolio <br>
+🤹 I'm currently learning next.js <br>
+👯 I'm looking for Open-source collaboration <br>
 💬 Ask me anything [here.](https://github.com/SujalShah3234/SujalShah3234/issues) <br>
 
 ---
