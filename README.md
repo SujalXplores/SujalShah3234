@@ -22,7 +22,7 @@
     <img alt="Sujal Shah | Profile Views" src="https://enw4zvq5ga1ahs6.m.pipedream.net" />
   </p>
   <a href="https://github.com/sujalshah3234github-readme-activity-graph">
-    <img alt="Sujal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sujalshah3234&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+    <img alt="Sujal's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sujalshah3234&theme=github" />
   </a>
 </details>
 
