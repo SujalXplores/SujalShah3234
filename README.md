@@ -8,6 +8,7 @@
 🤹 I'm currently learning Next.js <br>
 👯 I'm looking for Open-source collaboration <br>
 💬 Ask me anything [here.](https://github.com/SujalShah3234/SujalShah3234/issues) <br>
+💎 I have a habit of adjusting and improving projects
 
 ---
 
@@ -33,3 +34,8 @@
 <a href="https://www.buymeacoffee.com/sujal" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width="150" >
 </a>
+
+## Translations
+
+<kbd>[<img title="English" alt="English" src="https://flagicons.lipis.dev/flags/4x3/us.svg" width="22">](./README.md)</kbd>
+<kbd>[<img title="Italiano" alt="Italiano" src="https://flagicons.lipis.dev/flags/4x3/it.svg" width="22">](./translations/README.it.md)</kbd>
